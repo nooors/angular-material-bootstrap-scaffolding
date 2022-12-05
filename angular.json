@@ -73,10 +73,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "MotionBkOffice:build:production"
+              "browserTarget": "scaffolding:build:production"
             },
             "development": {
-              "browserTarget": "MotionBkOffice:build:development"
+              "browserTarget": "scaffolding:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -84,7 +84,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "MotionBkOffice:build"
+            "browserTarget": "scaffolding:build"
           }
         },
         "test": {
