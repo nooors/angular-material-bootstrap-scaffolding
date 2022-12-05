@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Using scaffoldign
 
-You may change angular.json lines 76 79 87 with the name of you project as well as in package.json
+You may change angular.json lines 6 76 79 87 with the name of you project as well as in package.json
